@@ -1,0 +1,2 @@
+C:\Users\notepad.by\Desktop\UnitTestProject1\OSiSP_Lab1\obj\Debug\OSiSP_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\notepad.by\Desktop\UnitTestProject1\OSiSP_Lab1\bin\Debug\OSiSP_Lab1.exe.config
